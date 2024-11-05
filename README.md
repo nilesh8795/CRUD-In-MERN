@@ -1,7 +1,5 @@
 # CRUD in MERN Stack
 
-This project is a simple implementation of CRUD (Create, Read, Update, Delete) operations using the MERN stack, which includes MongoDB, Express.js, React.js, and Node.js. The application is designed to provide a robust foundation for building full-stack web applications with basic CRUD functionalities.
-
 ## Features
 
 - **Create**: Add new items to the database.
